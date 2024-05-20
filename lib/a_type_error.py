@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-wrong_type = 'abc' + 123
+abc = 231
+
+wrong_type = abc + 123
